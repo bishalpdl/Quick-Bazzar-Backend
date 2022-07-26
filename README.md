@@ -5,9 +5,9 @@
  
 To run the application
 <strong>
->> npm install             
->> npm run start            
->> npm run dev             // for development purpose
+> npm install             
+> npm run start            
+> npm run dev             // for development purpose
 </strong>
  
 <div>
